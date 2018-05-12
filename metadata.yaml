@@ -1,0 +1,29 @@
+_repo: Wise-or-Otherwise_16065
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Leavitt, Thad. W. H. (Thaddeus William Henry)
+    alias: Leavitt, Thaddeus William Henry
+    deathdate: 1909
+    gutenberg_agent_id: '6464'
+    url: http://www.gutenberg.org/2009/agents/6464
+  - agent_name: Leavitt, Lydia
+    gutenberg_agent_id: '6463'
+    url: http://www.gutenberg.org/2009/agents/6463
+description: ''
+gutenberg_issued: '2005-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16065'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maxims'
+- !lcc 'PS'
+title: Wise or Otherwise
+url: http://www.gutenberg.org/ebooks/16065
